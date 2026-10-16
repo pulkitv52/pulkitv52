@@ -54,8 +54,6 @@ Enterprise AI copilots • Agentic workflows • Production RAG • LLM evaluati
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pulkitv52&show_icons=true&hide_border=true)
-
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitv52&layout=compact&hide_border=true)
 
 </div>
